@@ -1,0 +1,25 @@
+{
+  "name": "app-project-electron",
+  "version": "0.0.1",
+  "description": "un essai d electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedricleblond35/demo-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedricleblond35/demo-electron/issues"
+  },
+  "homepage": "https://github.com/cedricleblond35/demo-electron#readme",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
